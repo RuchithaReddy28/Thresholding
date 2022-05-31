@@ -70,21 +70,21 @@ for i in range(0,9):
 ```
 ## Output
 ### Original Image
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Thresholding/blob/main/mini%201.png?raw=true)
 
 ### Global Thresholding
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Thresholding/blob/main/mini%202.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Thresholding/blob/main/mini%203.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Thresholding/blob/main/mini%204.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Thresholding/blob/main/mini%205.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Thresholding/blob/main/mini%206.png?raw=true)
 
 ### Adaptive Thresholding
-![output](?raw=true)
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Thresholding/blob/main/mini%207.png?raw=true)
+![output](https://github.com/RuchithaReddy28/Thresholding/blob/main/mini%208.png?raw=true)
 
 ### Optimum Global Thesholding using Otsu's Method
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Thresholding/blob/main/mini%209.png?raw=true)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
